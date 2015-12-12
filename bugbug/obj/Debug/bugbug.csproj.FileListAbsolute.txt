@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\bugbug\bugbug\bin\Debug\bugbug.exe.config
+c:\users\user\documents\visual studio 2012\Projects\bugbug\bugbug\bin\Debug\bugbug.exe
+c:\users\user\documents\visual studio 2012\Projects\bugbug\bugbug\bin\Debug\bugbug.pdb
+c:\users\user\documents\visual studio 2012\Projects\bugbug\bugbug\obj\Debug\bugbug.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\bugbug\bugbug\obj\Debug\bugbug.exe
+c:\users\user\documents\visual studio 2012\Projects\bugbug\bugbug\obj\Debug\bugbug.pdb
